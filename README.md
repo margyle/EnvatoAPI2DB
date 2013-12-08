@@ -1,7 +1,7 @@
 EnvatoAPI2DB
 ============
 
-Just a quick hack to get Envato theme data onto my site for use in packages and theme installs. Very dirty and procedural but I do plan on making this a nice tidy package after the project launches. Uses a bunch of outdated or insecure code, not for use in production.
+Just a quick hack to get Envato theme data into a mysql database. I use it to populate additional theme options for customers looking to buy off the shelf website packages.  Very dirty and procedural but I do plan on making this a nice tidy package after the project launches. Uses a bunch of outdated or insecure code, not for use in production.
 
 Use:
 1) Use the .sql to build your table
