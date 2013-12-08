@@ -14,3 +14,5 @@ Use:
 4) Upload viewer.php.
 
 5) Boom, Roasted.
+
+ ![Screenshot](http://i.imgur.com/ru2qqdK.png)
